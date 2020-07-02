@@ -1,2 +1,2 @@
-# NewProject
+# my_site
 Мой первый сайт
